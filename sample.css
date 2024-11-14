@@ -1,2 +1,2 @@
-#bik-chat-root .ChatAppWrapper{ border: 1px solid black; }
+.ChatAppWrapper{ border: 1px solid black !important; }
 
